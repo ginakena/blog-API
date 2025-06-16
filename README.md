@@ -100,7 +100,7 @@ The project is deployed using Render
 ```json
 {
   "title": "Updated Post Title",
-  "content": "Updated content."
+  "content": "Updated content." 
 }
 ```
 
