@@ -6,6 +6,7 @@ const client = new PrismaClient();
 
 app.use(express.json());
 
+
 app.get("/", (req, res) => {
   res.send("<h1>Welcome to this Blog API😗</h1>");
 });
