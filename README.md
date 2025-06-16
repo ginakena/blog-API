@@ -4,7 +4,7 @@ This is a simple RESTful Blog API built using **Express**, **Prisma ORM**, and *
 
 It allows users to create accounts and publish blog posts. Each post is tied to a single user, and users can have multiple posts.
 
-The project is deployed using Render (or any cloud service of your choice).
+The project is deployed using Render 
 
 ---
 
@@ -13,7 +13,7 @@ The project is deployed using Render (or any cloud service of your choice).
 - **Node.js & Express** – Server and routing
 - **Prisma ORM** – Database interaction
 - **PostgreSQL** – Relational database
-- **Render/Railway** – Deployment platform
+- **Render** – Deployment platform
 
 ---
 
